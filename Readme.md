@@ -14,8 +14,6 @@
 
 This code source was developed with the following items:
 
-#### Dependencies
-
 - [Java][SDK 17] 
 - [SpringBoot][2.7.5] 
 - [Spring Security][Basic Auth - WebSecurityConfigurerAdapter] 
